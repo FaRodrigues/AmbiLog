@@ -5,4 +5,4 @@
 It is also important to note:
 1. The software is portable so it can be used both from a pen drive as from a web server;
 2. The software is cross platform and so it works on both Windows and Linux;
-3. The software can communicate with and configure a Data logger equipment via VISA interface.
+3. The software can communicate with and configure a Data logger **KeySight 34970A** equipment via VISA interface.
