@@ -13,13 +13,13 @@ It is also important to note:
 
 4. Example of a measurement node:
 
-      <measure timestamp="2026-04-29 00:00:59.731909">
-       <RHA>80.20</RHA>
-       <SIGMA_RHA>1.11</SIGMA_RHA>
-       <TCA>20.42</TCA>
-       <SIGMA_TCA>0.20</SIGMA_TCA>
-       <RHB>44.28</RHB>
-       <SIGMA_RHB>1.11</SIGMA_RHB>
-       <TCB>22.84</TCB>
-       <SIGMA_TCB>0.20</SIGMA_TCB>
-      </measure>
+           <measure timestamp="2026-04-29 00:00:59.731909">
+            <RHA>80.20</RHA>
+            <SIGMA_RHA>1.11</SIGMA_RHA>
+            <TCA>20.42</TCA>
+            <SIGMA_TCA>0.20</SIGMA_TCA>
+            <RHB>44.28</RHB>
+            <SIGMA_RHB>1.11</SIGMA_RHB>
+            <TCB>22.84</TCB>
+            <SIGMA_TCB>0.20</SIGMA_TCB>
+           </measure>
