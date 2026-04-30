@@ -1,0 +1,16 @@
+name: freq
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.8
+  - pyvisa
+  - numpy
+  - sympy
+  - astropy
+  - bokeh
+  - pandas
+  - statsmodels
+  - pip
+  - pip:
+    - pyvisa-py

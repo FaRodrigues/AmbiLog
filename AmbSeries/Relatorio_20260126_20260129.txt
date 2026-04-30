@@ -1,0 +1,4 @@
+[Sensor A] Temp: Média 20.3°C | Min 20.0 | Max 22.6
+[Sensor A] Umid: Média 72.6% | Min 26.0 | Max 88.9
+[Sensor B] Temp: Média 22.3°C | Min 8.0 | Max 28.9
+[Sensor B] Umid: Média 44.3% | Min 42.2 | Max 46.9

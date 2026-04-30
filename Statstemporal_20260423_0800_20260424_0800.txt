@@ -1,0 +1,4 @@
+Temperatura sensor A: média 20.21, mediana 20.23, min 20.00, max 20.49
+Umidade sensor A: média 71.19, mediana 82.08, min 40.01, max 88.89
+Temperatura sensor B: média 18.90, mediana 20.80, min 8.00, max 28.89
+Umidade sensor B: média 44.48, mediana 44.43, min 44.00, max 46.25

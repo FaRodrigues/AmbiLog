@@ -1,0 +1,7 @@
+pyvisa>=1.13.0
+numpy>=1.24.0
+sympy>=1.12
+astropy>=5.3
+bokeh>=3.3.0
+pandas>=2.0.0
+statsmodels>=0.14.0
