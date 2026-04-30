@@ -11,7 +11,7 @@ It is also important to note:
 2. The software is cross platform and so it works on both Windows and Linux;
 3. The software can configure a Data logger **KeySight 34970A** equipment and communicate with it using VISA interface.
 
-4. Example of a measurement node:
+4. Example of a measurement node from the ***/varamblog/log_ambientvars-26119.xml*** file:
 
            <measure timestamp="2026-04-29 00:00:59.731909">
             <RHA>80.20</RHA>
