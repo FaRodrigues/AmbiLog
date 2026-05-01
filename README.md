@@ -1,6 +1,6 @@
 # AmbiLog
 
-**AmbiLog** is a software developed in collaboration with researcher Marcelo de Cicco from Inmetro. This tool focuses on the sensing and storage of environmental variables such as temperature (TCA and TCB) and relative humidity (RHA and RHB) in Inmetro's Interferometry Laboratory. 
+**AmbiLog** is a software developed in collaboration with Inmetro researcher Marcelo de Cicco. This tool focuses on the detection and storage of environmental variables such as temperature (TCA and TCB) and relative humidity (RHA and RHB) at the Inmetro Interferometry Laboratory (Laint), which is the laboratory responsible for UTC (INXE).
 
 The laboratory environmental variables are continuously monitored in a graphical interface with a sliding window style. Environmental data are stored in XML files with structured nodes for each measurement. Each MJD has its own XML data file named YYDOY, and each node in the XML file contains a timestamp for the respective node measurements (See folder varamblog). 
 
