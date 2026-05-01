@@ -1,10 +1,3 @@
-# Install and Run Dependencies
-
-If you have just downloaded the project and it fails due to missing modules, you may need to install its requirements first:
-
-1. Install dependencies: python -m pip install -r requirements.txt.
-2. Run the script: python AmbiLog.py
-
 # Overview
 
 **AmbiLog** is a software developed in collaboration with Inmetro researcher Marcelo de Cicco. This tool focuses on the detection and storage of environmental variables such as temperature (TCA and TCB) and relative humidity (RHA and RHB) at the Inmetro Interferometry Laboratory (Laint), which is the laboratory responsible for UTC (INXE).
@@ -30,3 +23,10 @@ It is also important to note:
             <TCB>22.84</TCB>
             <SIGMA_TCB>0.20</SIGMA_TCB>
            </measure>
+
+# Install and Run Dependencies
+
+If you have just downloaded the project and it fails due to missing modules, you may need to install its requirements first:
+
+1. Install dependencies: python -m pip install -r requirements.txt.
+2. Run the script: python AmbiLog.py
