@@ -1,8 +1,9 @@
 # Install and Run Dependencies
 
 If you have just downloaded the project and it fails due to missing modules, you may need to install its requirements first:
-Install dependencies: python -m pip install -r requirements.txt.
-Run the script: python main.py
+
+1. Install dependencies: python -m pip install -r requirements.txt.
+2. Run the script: python AmbiLog.py
 
 # Overview
 
