@@ -1,4 +1,4 @@
-Install and Run Dependencies
+# Install and Run Dependencies
 
 If you have just downloaded the project and it fails due to missing modules, you may need to install its requirements first:
 Install dependencies: python -m pip install -r requirements.txt.
