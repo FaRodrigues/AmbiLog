@@ -1,3 +1,5 @@
+Into the project main folder run: python AmbiLog.py
+
 # AmbiLog
 
 **AmbiLog** is a software developed in collaboration with Inmetro researcher Marcelo de Cicco. This tool focuses on the detection and storage of environmental variables such as temperature (TCA and TCB) and relative humidity (RHA and RHB) at the Inmetro Interferometry Laboratory (Laint), which is the laboratory responsible for UTC (INXE).
